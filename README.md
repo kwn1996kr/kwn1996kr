@@ -18,7 +18,7 @@ Here are some ideas to get you started:
     Thank you for visiting.
 
 ![kwn1996kr's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwn1996kr&show_icons=true&theme=radical)
-<img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kn1996"></img>
+<img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kn1996"></img></br>
 # SKILL
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
