@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 👋 My major is software. I like solving algorithm problems.</br>
     Thank you for visiting.
 
-<img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kn1996"></img>
 ![kwn1996kr's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwn1996kr&show_icons=true&theme=radical)
+<img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kn1996"></img>
 # SKILL
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
