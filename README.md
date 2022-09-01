@@ -1,5 +1,5 @@
 ### ✨Hi there, I'm kwn1996kr✨
-
+![Snake_SVG](https://github.com/itzjamie96/itzjamie96/blob/output/github-contribution-grid-snake.svg)
 <!--
 **kwn1996kr/kwn1996kr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
