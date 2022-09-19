@@ -1,5 +1,6 @@
 ### ✨Hi there, I'm kwn1996kr✨
-![Snake_SVG](https://github.com/itzjamie96/itzjamie96/blob/output/github-contribution-grid-snake.svg)
+![Snake_SVG](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
 <!--
 **kwn1996kr/kwn1996kr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +19,9 @@ Here are some ideas to get you started:
     Thank you for visiting.
 
 ![kwn1996kr's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwn1996kr&show_icons=true&theme=radical)
+
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kn1996"></img></br>
+
 <!--
 # SKILL
 
